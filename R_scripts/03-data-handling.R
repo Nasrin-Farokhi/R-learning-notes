@@ -1,6 +1,24 @@
 ############################################################
 # 📌 Session 3: Data Importing, Cleaning, and Subsetting
 ############################################################
+#
+# This script demonstrates essential techniques for handling data in R,
+# including:
+# - Recognizing missing values and reserved keywords (e.g., NA, NULL)
+# - Importing datasets from various formats (TXT, CSV, Excel, SAV, clipboard)
+# - Exploring and cleaning data: structure, column names, data types
+# - Subsetting data using conditions and logical operators
+# - Creating new variables and removing unwanted ones
+# - Exporting cleaned datasets to multiple formats
+#
+# The session uses real-world datasets (e.g., Iris, mtcars, earthquakes)
+# and packages such as `rio`, `readxl`, and `psych` for practical hands-on learning.
+#
+# This file is part of the "R-learning-notes" repository and supports the
+# journey of mastering environmental data analysis through structured practice.
+#
+# Designed to build strong foundations for data-driven research in environmental and forest sciences.
+###############################################################################
 
 
 # 🔸 Handling Missing Values & Reserved Keywords ------------------------------
