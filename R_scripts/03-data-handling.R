@@ -11,7 +11,7 @@
 # - Creating new variables and removing unwanted ones
 # - Exporting cleaned datasets to multiple formats
 #
-# The session uses real-world datasets (e.g., Iris, mtcars, earthquakes)
+# The session uses real-world datasets (e.g., Iris, mtcars)
 # and packages such as `rio`, `readxl`, and `psych` for practical hands-on learning.
 #
 # This file is part of the "R-learning-notes" repository and supports the
