@@ -55,11 +55,15 @@ Q-Q plot of linear model residuals for normality assessment.
 
 ---
 
-### 6. `barplot_Job_AOV_HSD_groups` *(duplicate plot label)*
+## 6. `bar.group.Job.LM.HSD.groups`
 
-Second instance of the same post-hoc grouped barplot – consider replacing or renaming if it’s a different version.
+Similar to the previous barplot, but based on **linear model (lm)** output instead of direct ANOVA.
 
-![barplot_Job_AOV_HSD_groups](barplot_Job_AOV_HSD_groups.png)
+- Compares estimated marginal means and post-hoc differences
+- Helpful when modeling with interaction terms
+
+![bar.group.Job.LM.HSD.groups](bar.group.Job.LM.HSD.groups.png)
+
 ---
 
 **Summary**: This session combines statistical testing (ANOVA) with visual diagnostics to ensure validity and interpretability of group comparisons.
